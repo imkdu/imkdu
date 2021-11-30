@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin, a Senior Information & Decision Sciences major who is also practicing software development. 
+- 👋 Hi, I’m Kevin, a Senior Information & Decision Sciences major. 
 - You can check out some of my projects through the repositories tab or by clicking here: https://github.com/imkdu?tab=repositories
 
 
